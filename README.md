@@ -2,13 +2,79 @@
 
 ## Data Engineer
 
-Je m'intéresse à la conception de solutions Data qui répondent à des problématiques concrètes : rendre les données fiables, accessibles et exploitables pour les équipes et les métiers.
+Je conçois des **pipelines et plateformes de données de bout en bout**, de l'ingestion jusqu'à la transformation, la modélisation et la mise à disposition des données pour les besoins analytiques et métiers.
 
-Je me spécialise dans **Databricks et Apache Spark**, avec une bonne maîtrise de Spark Structured Streaming et Spark Declarative Pipelines. Je travaille sur des pipelines de données de bout en bout, de l'ingestion jusqu'à la transformation, la modélisation et la mise à disposition des données.
+Je travaille aussi bien sur des architectures **batch que streaming**, avec une attention particulière portée à la fiabilité, à la qualité des données et à l'industrialisation des pipelines.
 
-En parallèle, je développe mes compétences sur la conception de **plateformes Data open source**. J'utilise notamment Apache Airflow pour l'orchestration et Docker pour construire des environnements reproductibles, autour de technologies comme MinIO, Airbyte, Trino et ClickHouse.
+Mon expertise se situe principalement autour de **Databricks et Apache Spark**, avec une solide maîtrise de **Spark Structured Streaming** et **Spark Declarative Pipelines**. Je travaille également sur l'orchestration avec **Apache Airflow** et sur la construction de plateformes Data open source.
 
-### Stack
+---
+
+## Ce que je sais faire
+
+* Concevoir des pipelines **batch et streaming**
+* Mettre en place des traitements **incrémentaux**
+* Transformer et traiter des données avec **Apache Spark / PySpark**
+* Construire des architectures **Medallion**
+* Concevoir des modèles analytiques et des **Star Schemas**
+* Gérer l'historisation des données avec les **SCD**
+* Mettre en place des contrôles de **qualité des données**
+* Orchestrer les workflows avec **Apache Airflow**
+* Conteneuriser les environnements avec **Docker**
+* Automatiser les déploiements avec **CI/CD**
+* Déployer des workloads Data et applicatifs sur **AWS**
+
+---
+
+## Expertise Data Engineering
+
+### Databricks & Apache Spark
+
+Je me spécialise dans l'écosystème **Databricks / Apache Spark** pour construire des pipelines Data modernes et traiter des volumes importants de données.
+
+**PySpark · Spark Structured Streaming · Spark Declarative Pipelines · Delta Lake · Medallion Architecture**
+
+### Data Platforms
+
+Je travaille également sur la conception de plateformes Data basées sur des technologies open source :
+
+**Apache Airflow · Airbyte · MinIO · Trino · ClickHouse · PostgreSQL · Docker**
+
+L'objectif est de comprendre l'ensemble de la chaîne Data :
+
+```text
+Sources
+   ↓
+Ingestion
+   ↓
+Object Storage
+   ↓
+Transformation
+   ↓
+Data Warehouse / Lakehouse
+   ↓
+Serving & Analytics
+```
+
+---
+
+## Cloud & Industrialisation
+
+J'ai également travaillé sur le **déploiement de workloads sur AWS**, ainsi que sur l'automatisation des processus de développement et de déploiement.
+
+**AWS · S3 · Git · GitHub Actions · Docker · CI/CD**
+
+---
+
+## Certifications
+
+* **Databricks Certified Data Engineer Associate**
+* **Certification Apache Airflow**
+* **4 certifications Dataiku**
+
+---
+
+## Stack
 
 **Langages**
 
@@ -16,29 +82,20 @@ Python · SQL
 
 **Data Engineering**
 
-Apache Spark · PySpark · Databricks · Spark Structured Streaming · Spark Declarative Pipelines
+Apache Spark · PySpark · Databricks · Spark Structured Streaming · Spark Declarative Pipelines · Delta Lake
 
 **Data Platform**
 
-Apache Airflow · Docker · MinIO · Airbyte · Trino · ClickHouse · PostgreSQL
+Apache Airflow · Airbyte · MinIO · Trino · ClickHouse · PostgreSQL · Docker
 
 **Cloud & DevOps**
 
 AWS · S3 · Git · GitHub Actions · CI/CD
 
-### Ce que je travaille actuellement
+---
 
-Je cherche à approfondir la conception de plateformes Data complètes, avec une attention particulière portée à l'architecture, à la qualité des données, à l'orchestration et à l'industrialisation des pipelines.
+## Sur ce GitHub
 
-Mes projets sur GitHub sont principalement orientés autour de cas d'usage Data Engineering réalistes, avec l'objectif de comprendre non seulement comment construire un pipeline, mais aussi comment le rendre maintenable et exploitable dans un environnement proche de la production.
+Je partage principalement des projets autour du **Data Engineering et des Data Platforms**, avec l'objectif de reproduire des architectures et des problématiques proches de celles rencontrées en entreprise.
 
-### Quelques sujets qui m'intéressent
-
-* Data Engineering et Data Platforms
-* Apache Spark et traitement distribué
-* Streaming et traitement incrémental
-* Modélisation dimensionnelle
-* Data Quality et gouvernance
-* Orchestration et DataOps
-* Architectures Data open source
-* Cloud et déploiement sur AWS
+**Data Engineering · Data Platforms · Databricks · Apache Spark · Airflow · AWS · Open Source**
