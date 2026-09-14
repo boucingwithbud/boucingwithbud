@@ -96,6 +96,6 @@ AWS · S3 · Git · GitHub Actions · CI/CD
 
 ## Sur ce GitHub
 
-Je partage principalement des projets autour du **Data Engineering et des Data Platforms**, avec l'objectif de reproduire des architectures et des problématiques proches de celles rencontrées en entreprise.
+Je partage principalement des projets autour du **Data Engineering, du Machine Learning et des Data Platforms**, avec l'objectif de reproduire des architectures et des problématiques proches de celles rencontrées en entreprise.
 
 **Data Engineering · Data Platforms · Databricks · Apache Spark · Airflow · AWS · Open Source**
