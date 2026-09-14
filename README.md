@@ -4,7 +4,7 @@
 
 Je conçois des **pipelines et plateformes de données de bout en bout**, de l'ingestion jusqu'à la transformation, la modélisation et la mise à disposition des données pour les besoins analytiques et métiers.
 
-Je travaille aussi bien sur des architectures **batch que streaming**, avec une attention particulière portée à la fiabilité, à la qualité des données et à l'industrialisation des pipelines.
+Je travaille aussi bien sur des architectures **batch que streaming**, avec une attention particulière portée à la fiabilité, à la qualité des données, l'optimisation des coûts et à l'industrialisation des pipelines.
 
 Mon expertise se situe principalement autour de **Databricks et Apache Spark**, avec une solide maîtrise de **Spark Structured Streaming** et **Spark Declarative Pipelines**. Je travaille également sur l'orchestration avec **Apache Airflow** et sur la construction de plateformes Data open source.
 
